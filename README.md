@@ -1,8 +1,22 @@
-# React + Vite
+## Student Information
+- **Name:** Neepurna Baral
+- **Student ID:** 101586698
+- **Course:** Front End Development
+- **Assignment:** 04
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
+In this Lab we Have 
+- Created a functional component Todo to display the Todo List.
+- Managed the state of Todo items and the new Todo input using the useState hook.
+- Created a function to add new Todo items.
+-  Todo List by adding features like editing and marking tasks as
+complete.
+- Implemented a function to remove Todo items.
+- Rendered the Todo items and added remove buttons.
+- styled  Todo List to enhance its appearance using Material UI.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Setup Instructions
+1. Clone the repository
+2. Run `npm install` to install dependencies
+3. Use `npm run dev` to start the development server
+4. Open browser and navigate to `http://localhost:5173`
